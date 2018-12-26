@@ -1,0 +1,17 @@
+.work_direction {
+	min-height: 350px;
+}
+
+.wd_descrition {
+	min-height: 75px;
+}
+.carousel img {
+	width: auto;
+	height: 360px;
+	max-height: 360px;
+	min-width: 0 !important;
+}
+
+.carousel-inner > .carousel-item > img{
+	margin: 0 auto !important;
+}
