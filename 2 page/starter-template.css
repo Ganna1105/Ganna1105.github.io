@@ -6,5 +6,6 @@ body {
   text-align: center;
 }
 .blog { text-align: left;
-
+	font-weight: bold;
+color:black;
 }

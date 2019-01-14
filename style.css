@@ -6,12 +6,6 @@
 body {
   padding-top: 3rem;
   padding-bottom: 3rem;
-  color: black;
-  
-/* background:url('images/SAM_4147.jpg');
-background-color: rgba(0, 120, 201, 0.7);
-background-repeat: no-repeat;
-position: relative;*/
 
 }
 
@@ -62,7 +56,6 @@ position: relative;*/
   margin-bottom: 1.5rem;
   text-align: center;
 
-
 }
 .marketing h2 {
   font-weight: 400;
@@ -78,7 +71,9 @@ position: relative;*/
 ------------------------- */
 
 .featurette-divider {
-  margin: 5rem 0; /* Space out the Bootstrap <hr> more */
+  margin: auto; 
+
+  /* Space out the Bootstrap <hr> more */
 }
 
 /* Thin out the marketing headings */
@@ -97,7 +92,8 @@ position: relative;*/
   height: 300px;
    border: 10px outset #00FA9A;
 }
-
+.lead {margin: 2px;
+}
 
 /* RESPONSIVE CSS
 -------------------------------------------------- */
