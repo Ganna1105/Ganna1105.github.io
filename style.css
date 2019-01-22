@@ -77,11 +77,12 @@ body {
 }
 
 /* Thin out the marketing headings */
-.featurette-heading {
+/*.featurette-heading {
   font-weight: 300;
   line-height: 1;
   letter-spacing: -.05rem;
-}
+}*/
+.col-md-7{ text-align: center;}
 
 .rounded-circle {
   border: 5px groove #00FA9A;
@@ -91,9 +92,9 @@ body {
   width:500px ;
   height: 300px;
    border: 10px outset #00FA9A;
+   
 }
-.lead {margin: 2px;
-}
+
 
 /* RESPONSIVE CSS
 -------------------------------------------------- */
